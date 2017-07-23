@@ -1,6 +1,6 @@
 ﻿{
   "frameworks": {
-    "net46": {}
+    "net461": {}
   },
   "runtimes": {
     "win": {}
@@ -8,13 +8,13 @@
   "dependencies": {
     "AvalonEdit": "5.0.2",
     "AvalonLibrary": "2.3.0",
-    "Extended.Wpf.Toolkit": "2.9.0",
-    "Microsoft.ApplicationInsights": "2.3.0",
-    "Microsoft.CodeAnalysis.CSharp": "2.0.0",
-    "Microsoft.CodeAnalysis.CSharp.Features": "2.0.0",
-    "Microsoft.CodeAnalysis.CSharp.Scripting": "2.0.0",
-    "Microsoft.CodeAnalysis.CSharp.Workspaces": "2.0.0",
-    "NuGet.PackageManagement": "4.0.0",
+    "Extended.Wpf.Toolkit": "3.1.0",
+    "Microsoft.ApplicationInsights": "2.4.0",
+    "Microsoft.CodeAnalysis.CSharp": "2.3.1",
+    "Microsoft.CodeAnalysis.CSharp.Features": "2.3.1",
+    "Microsoft.CodeAnalysis.CSharp.Scripting": "2.3.1",
+    "Microsoft.CodeAnalysis.CSharp.Workspaces": "2.3.1",
+    "NuGet.PackageManagement": "4.2.0",
     "System.IO.Compression.ZipFile": "4.3.0",
     "System.Runtime.InteropServices.RuntimeInformation": "4.3.0"
   }
